@@ -38,11 +38,7 @@ This project predicts an individual's creditworthiness using financial data such
 
 ---
 
-## 📉 ROC Curve
 
-*(Optional - Add your saved plot)*
-
----
 
 ## ✅ Results
 
